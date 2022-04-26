@@ -9,5 +9,5 @@ Ver documentación del proyecto [aquí](https://github.com/Lu-Emperatriz/Covid-e
 
 * * *
 
-### 📌 Ver más proyectos de Lucero [AQUÍ](https://lu-emperatriz.github.io/)**
+### 📌 Ver más proyectos de Lucero [AQUÍ](https://lu-emperatriz.github.io/)
 
