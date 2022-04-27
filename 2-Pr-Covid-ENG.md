@@ -1,8 +1,8 @@
 # **Impact of Covid-19 in Latin America**
 
-[**View the dashboard in Power BI online**](https://bit.ly/3OGgn2c)
+[**View the dashboard in Power BI online**](https://bit.ly/3tUNgzS)
 
-[![alt text](https://imgur.com/SqfOdqO.png)](https://bit.ly/3OGgn2c)
+[![alt text](https://imgur.com/SqfOdqO.png)](https://bit.ly/3tUNgzS)
 
 ***
 
@@ -106,7 +106,7 @@ CREATE VIEW PobVaccinated AS
 # Analysis and Results
 
 For a better understanding of the data I developed a dynamic Dashboard in Power BI.<br/>
-Try it out [**here**](https://bit.ly/3OGgn2c).
+Try it out [**here**](https://bit.ly/3tUNgzS).
 
 ✔️ **What was the evolution of the mortality rate in Peru compared to other Latin American countries?**<br/>
 As shown in the graph, Peru is the Latin American country with the highest mortality rate on average (8.9%), those following are Ecuador (6.2%) and Paraguay (3.6%), i.e. approximately 9 out of every 100 Peruvian COVID-19 cases have died in Peru.
