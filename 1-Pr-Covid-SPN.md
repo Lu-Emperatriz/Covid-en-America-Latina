@@ -1,9 +1,9 @@
 # **Impacto del Covid-19 en América Latina**
 
 
-[**Ver el dashboard en Power BI en línea**](https://bit.ly/3vsbLFD)
+[**Ver el dashboard en Power BI en línea**](https://bit.ly/3Knt7HP)
 
-[![alt text](https://imgur.com/SqfOdqO.png)](https://bit.ly/3vsbLFD)
+[![alt text](https://imgur.com/SqfOdqO.png)](https://bit.ly/3Knt7HP)
 
 * * *
 ## _Contenido_
@@ -116,7 +116,7 @@ CREATE VIEW PobVaccinated AS
 # Resultados de Análisis
 
 Para una mejor comprensión de los datos desarrollé un Dashboard dinámico en Power BI.  
-Pruébalo [**AQUÍ**](https://bit.ly/3vsbLFD)
+Pruébalo [**AQUÍ**](https://bit.ly/3Knt7HP)
 
 ✔️ **¿Cuál fue la evolución de la tasa de mortalidad en Perú en comparación con otros países de América Latina?** <BR>
 Como se observa en el gráfico, el Perú es el país Latinoamericano con la mayor tasa de mortalidad en promedio (8.9%), los que le siguen son Ecuador (6.2%) y Paraguay (3.6%), es decir aproximadamente 9 de cada 100 casos peruanos de COVID-19 han fallecido en el Perú. 
